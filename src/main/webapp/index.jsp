@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Vimaldev</h2>
-      <p class="text-center">Testing POL SCM</p>
+      <p class="text-center">Testing GitHub WebHook SCM</p>
   </div>
 </body>
 </html>
