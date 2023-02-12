@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Simple Interactive JSP</title>
+    <title>Vimaldev Simple Interactive JSP</title>
   </head>
   <body>
     <%
